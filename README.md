@@ -2,7 +2,7 @@
 <h3 align="center">A passionate junior fullstack developer from Tunisia</h3>
 
 
-- 🌱 I’m currently learning **Machine Learning ** following [google developer crash course][https://developers.google.com/machine-learning/crash-course]
+- 🌱 I’m currently learning **Machine Learning** following [google developer crash course](https://developers.google.com/machine-learning/crash-course).
 
 - 👨‍💻 All of my projects are available at [https://louai.vercel.app](https://louai.vercel.app)
 
