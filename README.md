@@ -2,11 +2,11 @@
 <h3 align="center">A passionate junior fullstack developer from Tunisia</h3>
 
 
-- 🌱 I’m currently learning **Machine Learning** following [google developer crash course](https://developers.google.com/machine-learning/crash-course).
+- 🌱 I’m currently seeking for new opportunity to showcase my skills in real world solutions.
 
-- 👨‍💻 All of my projects are available at [https://louai.vercel.app](https://louai.vercel.app)
+- 👨‍💻 All of my projects are available at [https://louai.vercel.app](https://louai.vercel.app) but I am working on implementing new one
 
-- 💬 Ask me about **javascript, typescript, node.js, react, python**
+- 💬 Ask me about **javascript, typescript, node.js, react, python, nextjs**
 
 - 📫 How to reach me **louaialoui1993@gmail.com**
 
