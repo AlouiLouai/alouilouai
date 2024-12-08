@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aloui Louai</h1>
-<h3 align="center">A passionate junior fullstack developer from Tunisia</h3>
+<h3 align="center">A passionate Software Engineer from Tunisia</h3>
 
 
 - 🌱 I’m currently seeking for new opportunity to showcase my skills in real world solutions.
