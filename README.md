@@ -7,7 +7,7 @@
 <div align="center">
   🌱 I’m currently seeking for new opportunity to showcase my skills in real world solutions.
   
-  👨‍💻 All of my projects are available at [https://louai.vercel.app](https://louai.vercel.app) but I am working on implementing new one those days
+  👨‍💻 All of my projects are available at [https://louai.vercel.app](https://louai.vercel.app) but I am working on implementing new currently
   
   💬 Ask me about **javascript, typescript, node.js, react, python, nextjs, AWS, CI/CD**
 
