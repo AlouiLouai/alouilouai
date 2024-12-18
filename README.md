@@ -11,9 +11,9 @@
   
   👨‍💻 All of my projects are available at [https://louai.vercel.app](https://louai.vercel.app) but I am working on implementing new one those days
   
-  - 💬 Ask me about **javascript, typescript, node.js, react, python, nextjs, AWS, CI/CD**
-  - 
-- 📫 How to reach me **louaialoui1993@gmail.com**
+  💬 Ask me about **javascript, typescript, node.js, react, python, nextjs, AWS, CI/CD**
+  
+  📫 How to reach me **louaialoui1993@gmail.com**
 </div>
 
 
