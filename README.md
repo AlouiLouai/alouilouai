@@ -1,14 +1,21 @@
-<h1 align="center">Hi 👋, I'm Aloui Louai</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Louai+Aloui!;" />
+</h1>
+
 <h3 align="center">A passionate Software Engineer from Tunisia</h3>
 
-
-- 🌱 I’m currently seeking for new opportunity to showcase my skills in real world solutions.
-
-- 👨‍💻 All of my projects are available at [https://louai.vercel.app](https://louai.vercel.app) but I am working on implementing new one
-
-- 💬 Ask me about **javascript, typescript, node.js, react, python, nextjs**
-
+<div align="center">
+  🌱 I’m currently seeking for new opportunity to showcase my skills in real world solutions.
+  
+  👨‍💻 All of my projects are available at [https://louai.vercel.app](https://louai.vercel.app) but I am working on implementing new one those days
+  
+  - 💬 Ask me about **javascript, typescript, node.js, react, python, nextjs, AWS, CI/CD**
+  - 
 - 📫 How to reach me **louaialoui1993@gmail.com**
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
