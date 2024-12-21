@@ -1,21 +1,24 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Louai+Aloui!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
 </h1>
 
 <h3 align="center">Hi, I'm Louai Aloui 👨‍💻 – Full-stack Software Engineer</h3>
 <p align="center">Passionate about crafting scalable, efficient, and innovative solutions that drive real-world impact. Experienced in building robust systems and delivering high-performance applications across finance, blockchain, and DevOps domains.</p>
 
+<b>### 📝 About Me</b>
 <div align="center">
-    
-  🌱 I’m currently seeking for new opportunity to showcase my skills in real world solutions.
-  
-  👨‍💻 All of my projects are available at [https://louai.vercel.app](https://louai.vercel.app) but I am working on implementing new currently
-  
-  💬 Ask me about **javascript, typescript, node.js, react, python, nextjs, AWS, CI/CD**
-
-  ⚡ Fun fact **World first developer was a women**
-  
-  📫 How to reach me **louaialoui1993@gmail.com**
+    <p align="center">🌍 Based in Tunisia, specializing in **JavaScript, TypeScript, Python**, and full-stack development.      </p>
+    <p align="center">🚀 2+ years of experience building scalable web and cloud applications for startups and fintech.      
+    </p>
+    <p align="center">🛠️ Proficient in **React, Node.js, Flask, AWS, Kubernetes, and PostgreSQL**.      
+    </p>
+    <p align="center">🎯 Passionate about creating impactful solutions, learning new technologies, and collaborating in diverse environments.   
+    </p>
+    <p align="center">👨‍💻 All of my projects are available at [https://louai.vercel.app](https://louai.vercel.app) but I am working on implementing new currently
+    </p>
+    <p align="center">💬 Ask me about **javascript, typescript, node.js, react, python, nextjs, AWS, CI/CD
+    </p>
+    <p align="center">📫 How to reach me **louaialoui1993@gmail.com**</p>
 </div>
 
 
