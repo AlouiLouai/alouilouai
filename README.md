@@ -2,9 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Louai+Aloui!;" />
 </h1>
 
-<h3 align="center">A passionate Software Engineer from Tunisia</h3>
+<h3 align="center">Hi, I'm Louai Aloui 👨‍💻 – Full-stack Software Engineer</h3>
+<p align="center">Passionate about crafting scalable, efficient, and innovative solutions that drive real-world impact. Experienced in building robust systems and delivering high-performance applications across finance, blockchain, and DevOps domains.</p>
 
 <div align="center">
+    
   🌱 I’m currently seeking for new opportunity to showcase my skills in real world solutions.
   
   👨‍💻 All of my projects are available at [https://louai.vercel.app](https://louai.vercel.app) but I am working on implementing new currently
