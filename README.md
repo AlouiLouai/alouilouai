@@ -28,7 +28,7 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="center" style="display: flex; gap: 12px; flex-wrap: nowrap; align-items: center;">
+<div style="display: flex; gap: 12px; flex-wrap: nowrap; align-items: center; justify-content: center;">
   <!-- Core Stack -->
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
@@ -52,5 +52,6 @@
   <a href="https://www.langchain.com/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/139944224?s=200&v=4" alt="LangChain" width="40" height="40"/>
   </a>
-</p>
+</div>
+
 
