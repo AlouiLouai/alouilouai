@@ -44,8 +44,22 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
 
   <!-- New Additions -->
-  <a href="https://portal.azure.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure Portal" width="40" height="40"/></a>
-  <a href="https://foundry.azure.ai/" target="_blank"><img src="https://foundry.azure.ai/assets/logo.svg" alt="Azure Foundry AI" width="40" height="40"/></a>
-  <a href="https://n8n.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/n8n-io.svg" alt="n8n" width="40" height="40"/></a>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/139944224?s=200&v=4" alt="LangChain" width="40" height="40"/></a>
+<a href="https://portal.azure.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure Portal" width="40" height="40"/>
+</a>
+
+<!-- Azure Foundry AI: Using a generic Azure AI icon as a placeholder -->
+<a href="https://foundry.azure.ai/" target="_blank">
+  <img src="https://raw.githubusercontent.com/microsoft/azure-icons/master/icons/ai.svg" alt="Azure Foundry AI" width="40" height="40"/>
+</a>
+
+<!-- n8n: Using official SVG from n8n repo raw file -->
+<a href="https://n8n.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/packages/design-system/public/favicon.ico" alt="n8n" width="40" height="40"/>
+</a>
+
+<!-- LangChain: Using GitHub avatar as before -->
+<a href="https://www.langchain.com/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/139944224?s=200&v=4" alt="LangChain" width="40" height="40"/>
+</a>
 </p>
