@@ -1,53 +1,40 @@
+<div align="center">
+  <a href="https://github.com/louaialoui1993" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2809f05634560759f2a5814524c9657b90159491/icons/github/github-original-wordmark.svg" width="100" height="100" alt="GitHub Logo" style="margin-bottom: 20px;">
+  </a>
+</div>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Louai+Aloui;Full-Stack+Engineer" alt="Typing SVG" />
 </h1>
 
-<h2 align="center">I'm Louai Aloui 👨‍💻</h2>
-<h3 align="center">Senior Full-Stack Software Engineer</h3>
+<h3 align="center">Crafting scalable, reliable, and innovative software solutions.</h3>
 
-<p align="center" style="max-width: 650px; margin: auto; font-size: 18px; line-height: 1.5;">
-  Crafting scalable, reliable, and innovative software solutions that solve complex challenges and drive measurable impact.<br/>
-  Experienced in high-performance applications across finance, blockchain, AI, and DevOps ecosystems.<br/>
-  Passionate about clean architecture, modern tech, and continuous learning.
+---
+
+### 💻 About Me
+
+- 🌍 Based in Tunisia, with 3+ years of experience in full-stack development.
+- 🚀 Expert in building scalable web and microservices architectures for fintech startups.
+- 🛠️ Specializing in **JavaScript, TypeScript, and Python**, with a focus on modern frameworks and cloud-native solutions.
+- 🤖 Passionately exploring and learning **AI, agentic workflows, and AI-driven automation** since January.
+- 🔗 Explore my work:
+  - [Job Application Advisor](https://job-application-advisor.vercel.app/) - an AI agent that personalizes job applications.
+  - [N8N Template Generator](https://n8n-template-generator.vercel.app/) - AI that generates workflow templates from prompts.
+  - [AI Automated YouTube Channel](https://www.youtube.com/@louaialoui-3) - my YouTube channel powered by automation.
+- 📫 Connect with me: [louaialoui1993@gmail.com](mailto:louaialoui1993@gmail.com) | [Portfolio (WIP)](https://louai.vercel.app)
+
+---
+
+### 🛠️ My Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,nestjs,aws,azure,docker,kubernetes,postgres,git,github,vscode" alt="Tech Stack Icons" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-
-<p align="center" style="max-width: 650px; margin: auto; font-size: 16px; line-height: 1.4;">
-  🌍 Based in Tunisia | <strong>JavaScript | TypeScript | Python</strong> expert<br/>
-  🚀 3+ years building scalable web & microservices architectures for fintech startups<br/>
-  🛠️ Proficient with <strong>Node.js, React, Next.js (App Router), NestJS, Python, AWS, Azure & Azure AI Foundry, PostgreSQL, CI/CD pipelines</strong><br/>
-  🤖 Currently innovating with AI-powered automation & developer tooling:<br/>
-  👉 <a href="https://job-application-advisor.vercel.app/" target="_blank" rel="noopener">Job Application Advisor</a> — AI agent that personalizes job applications intelligently.<br/>
-  🎯 Driven by meaningful tech, collaboration, and continuous growth.<br/>
-  🔗 Portfolio (WIP): <a href="https://louai.vercel.app" target="_blank" rel="noopener">louai.vercel.app</a><br/>
-  📫 Reach me: <a href="mailto:louaialoui1993@gmail.com">louaialoui1993@gmail.com</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=louaialoui1993&show_icons=true&theme=onedark" alt="GitHub Stats" style="width: 400px; margin: 0 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louaialoui1993&layout=compact&langs_count=5&theme=onedark" alt="Top Languages" style="width: 400px; margin: 0 10px;">
 </p>
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 10px;">
-  <!-- Core Frameworks -->
-  <a href="https://reactjs.org/" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /></a>
-  <a href="https://nestjs.com/" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40" /></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noopener"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>
-
-  <!-- Databases & Cloud -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /></a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" /></a>
-  <a href="https://portal.azure.com/" target="_blank" rel="noopener"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure" width="40" height="40" /></a>
-
-  <!-- DevOps & Containers -->
-  <a href="https://www.docker.com/" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noopener"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
-
-  <!-- AI & Automation -->
-  <a href="https://www.langchain.com/" target="_blank" rel="noopener"><img src="https://avatars.githubusercontent.com/u/139944224?s=200&v=4" alt="LangChain" width="40" height="40" /></a>
-</div>
