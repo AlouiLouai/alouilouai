@@ -23,7 +23,7 @@
 ### 🛠️ My Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,nestjs,aws,azure,docker,kubernetes,postgres,git,github,vscode" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,nestjs,aws,azure,docker,kubernetes,postgres,git,github,vscode,n8n,langchain" alt="Tech Stack Icons" />
 </p>
 
 ---
