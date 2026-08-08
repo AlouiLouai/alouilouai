@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Louai+Aloui+%F0%9F%91%8B;Full-Stack+Engineer+%7C+AI+Builder;Shipping+real+products+since+2021;Turning+ideas+into+scalable+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Louai+Aloui+%F0%9F%91%8B;Senior+Full-Stack+Engineer+%26+AI+Builder;Shipping+real+products+since+2021;Entrepreneur+%7C+Solo+Builder+%7C+Shipper" alt="Typing SVG" />
 
 <p>
   <a href="mailto:louaialoui1993@gmail.com"><img src="https://img.shields.io/badge/Email-ff6f61?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -15,24 +15,15 @@
 
 ---
 
-## ⚡ What I Build
+## 👋 About Me
 
-> I engineer **production-grade full-stack systems** and **AI-native products** — from event-driven microservices to agentic pipelines that automate entire workflows end-to-end.
+> I design and ship production-grade software end-to-end — from cloud-native platforms to agentic AI products — usually as a team of one.
 
-- 🌍 **Tunisia-based**, 4+ years shipping across fintech & SaaS startups
-- 🧠 Specializing in **TypeScript · Python · Node.js** with modern cloud-native stacks
-- 🤖 Deep in **AI agents, RAG pipelines, and automation-first product design**
-- 🚀 Philosophy: *ship fast, iterate hard, learn from production*
-
----
-
-## 🔥 Live Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [🎯 Job Application Advisor](https://job-application-advisor.vercel.app/) | AI agent that personalizes CVs & cover letters per job | Next.js · LangChain · OpenAI |
-| [⚙️ n8n Template Generator](https://n8n-template-generator.vercel.app/) | Generates workflow automation templates from prompts | n8n · GPT-4o · React |
-| [📺 AI YouTube Channel](https://www.youtube.com/@louaialoui-3) | Fully automated content pipeline — research → script → publish | Python · n8n · Whisper |
+- 🌍 **Tunisia-based**, 4+ years shipping across fintech, SaaS, and AI-native startups
+- 🧩 Full-stack across web & mobile: **React, Next.js** · **React Native & Expo** · **NestJS**
+- ☁️ Cloud-native on **Azure** (including **Azure AI Foundry**) and AWS
+- 🤖 Deep in **agentic AI, RAG pipelines, and Generative AI** — shipped as product features, not demos
+- 🚀 **Entrepreneurial mindset** — I conceive, build, and ship my own products end-to-end
 
 ---
 
@@ -47,10 +38,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-**Frontend**
+**Frontend & Mobile**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
@@ -61,10 +54,10 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
 
-**Cloud, Infra & DevOps**
+**Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
@@ -72,30 +65,26 @@
 
 **AI & Automation**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-6C63FF?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6C63FF?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-6C63FF?style=flat-square)
 
 </div>
 
 ---
 
-## 🤖 AI & Automation Focus (2025–2026)
-```
-┌─────────────────────────────────────────────────────┐
-│  Agentic Systems     → Multi-step AI agents wired    │
-│                         into CRMs, ATSs, ops tools   │
-│                                                       │
-│  RAG Pipelines       → CV/PDF/knowledge-base grounded│
-│                         retrieval with reranking      │
-│                                                       │
-│  Full-Lifecycle Auto → Research → Generate → QA      │
-│                         → Publish, no human in loop  │
-│                                                       │
-│  Multimodal Inputs   → Vision + text copilots        │
-│                         for hands-free applications  │
-└─────────────────────────────────────────────────────┘
-```
+## 🎯 Focus Areas
+
+| Area | In practice |
+|---|---|
+| **Agentic AI Systems** | Multi-step agents wired into CRMs, ATS platforms, and internal ops tooling |
+| **Machine Learning & RAG** | Knowledge-base-grounded retrieval, reranking, and applied ML in production |
+| **Generative AI Products** | LLM-powered features shipped to real users end-to-end, not demos |
+| **Cloud & Platform Engineering** | Scalable, cost-aware infrastructure on Azure and AWS |
 
 ---
 
@@ -115,9 +104,9 @@
 ## 🤝 Let's Build Something
 
 I'm open to:
-- 🧩 **Consulting** on AI integration, automation architecture, or fintech systems
-- 💼 **Full-time / contract** roles in AI product or senior full-stack engineering
-- 🚀 **Co-founding or co-building** ambitious products with strong technical bets
+- 🧭 **Senior / Staff Engineering** roles in AI products or platform teams
+- 🧩 **Consulting** on agentic AI, GenAI integration, and cloud architecture
+- 🚀 **Co-founding or advising** on ambitious, technically demanding products
 
 > 📬 [louaialoui1993@gmail.com](mailto:louaialoui1993@gmail.com) · [LinkedIn](https://www.linkedin.com/in/louai-aloui/) · [Portfolio](https://louai.vercel.app)
 
